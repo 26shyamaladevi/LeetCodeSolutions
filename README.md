@@ -7,4 +7,4 @@
  - [Reverse Integer](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Reverse%20Integer)
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=26shyamaladevi)](https://github.com/KnlnKS/leetcode-stats)
+@[LeetCode](https://leetcode.com/)
