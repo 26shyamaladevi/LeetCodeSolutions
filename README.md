@@ -6,11 +6,11 @@
  - [Reverse String](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Reverse%20String)
  - [Reverse Integer](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Reverse%20Integer)
 3. Linked List
-- [Delete Node in a Linked List]()
+- [Delete Node in a Linked List](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Delete%20Node%20in%20Linked%20List)
 4. Dynamic Programming
-- [Climbing Stairs]()
+- [Climbing Stairs](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Climbing%20Stairs)
 5. Math
-- [Count Primes]()
-- [Power of Three]()
+- [Count Primes](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/CountPrimes)
+- [Power of Three](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/PowerOfThree)
 
 @[LeetCode](https://leetcode.com/)
