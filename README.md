@@ -11,20 +11,25 @@
 
 - [Reverse String](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Reverse%20String)
 - [Reverse Integer](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Reverse%20Integer)
+- [First Unique Character in a String]()
 
 3. Linked List
 
 - [Delete Node in a Linked List](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Delete%20Node%20in%20Linked%20List)
 
-4. Sorting and Searching
+4. Trees
+
+- [Maximum Depth of Binary Tree]()
+
+5. Sorting and Searching
 
 - [Merge Sorted Array](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Merge_Sorted_Array)
 
-5. Dynamic Programming
+6. Dynamic Programming
 
 - [Climbing Stairs](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Climbing%20Stairs)
 
-6. Math
+7. Math
 
 - [Count Primes](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/CountPrimes)
 - [Power of Three](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/PowerOfThree)
