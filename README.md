@@ -11,7 +11,7 @@
 
 - [Reverse String](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Reverse%20String)
 - [Reverse Integer](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Reverse%20Integer)
-- [First Unique Character in a String]()
+- [First Unique Character in a String](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/First%20_UniqueCharacter_String)
 
 3. Linked List
 
@@ -19,7 +19,7 @@
 
 4. Trees
 
-- [Maximum Depth of Binary Tree]()
+- [Maximum Depth of Binary Tree](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/MaximumDepth_BinaryTree)
 
 5. Sorting and Searching
 
