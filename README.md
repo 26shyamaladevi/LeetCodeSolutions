@@ -11,7 +11,9 @@
 
 - [Reverse String](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Reverse%20String)
 - [Reverse Integer](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Reverse%20Integer)
-- [First Unique Character in a String](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/First%20_UniqueCharacter_String) -[Valid Anagram]() -[Valid Palindrome]()
+- [First Unique Character in a String](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/First%20_UniqueCharacter_String) 
+- [Valid Anagram](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Valid_Anagram) 
+- [Valid Palindrome](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Valid_Palindrome)
 
 3. Linked List
 
