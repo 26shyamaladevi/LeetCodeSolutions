@@ -6,7 +6,8 @@
 - [Best time to Buy and Sell Stocks](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
 - [Rotate Array](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Rotate%20_Array)
 - [Contains Duplicate](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/ContainsDuplicate)
-- [Single Number]()
+- [Single Number](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/SingleNumber)
+
 2. Strings
 
 - [Reverse String](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Reverse%20String)
