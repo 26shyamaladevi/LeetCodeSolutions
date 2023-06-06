@@ -19,7 +19,7 @@
 3. Linked List
 
 - [Delete Node in a Linked List](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Delete%20Node%20in%20Linked%20List)
-
+- [Remove Nth Node From Linked List]()
 4. Trees
 
 - [Maximum Depth of Binary Tree](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/MaximumDepth_BinaryTree)
