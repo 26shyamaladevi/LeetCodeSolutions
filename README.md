@@ -31,6 +31,7 @@
 6. Dynamic Programming
 
 - [Climbing Stairs](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Climbing%20Stairs)
+- [Best time to Buy and Sell Stocks](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20-%20DP)
 
 7. Math
 
