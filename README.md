@@ -7,7 +7,7 @@
 - [Rotate Array](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/Rotate%20_Array)
 - [Contains Duplicate](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/ContainsDuplicate)
 - [Single Number](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/SingleNumber)
-- [Intersection Of Two Arrays II]()
+- [Intersection Of Two Arrays II](https://github.com/26shyamaladevi/LeetCodeSolutions/tree/main/InterSectionOfTwoArrays)
 
 2. Strings
 
